@@ -1,0 +1,652 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\edittableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\edittableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\editmenuitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editmenuitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\editorderitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editorderitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\tableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\editorderitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editorderitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\editorderitemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editorderitemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\tableform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\tableform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\editorderitemform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editorderitemform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\edittableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\edittableform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\editmenuitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\editmenuitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:services\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\edittableform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\edittableform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\database\\sample_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:database\\sample_data.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\database\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:database\\create_tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\forms\\orderform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:forms\\orderform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:restaurantmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|c:\\studia\\semestr_4\\po2\\restaurantmanagement\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B79E259-09AC-46D3-BAE4-A7E15685E465}|RestaurantManagement.csproj|solutionrelative:models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditOrderItemForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditOrderItemForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\EditOrderItemForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:36:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TableForm.cs [Design]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TableForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.cs [Design]",
+              "RelativeToolTip": "Forms\\TableForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:47:38.06Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\TableForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.cs",
+              "RelativeToolTip": "Forms\\TableForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:49:32.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailsForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.cs",
+              "RelativeToolTip": "Forms\\OrderDetailsForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:21:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditMenuItemForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditMenuItemForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditMenuItemForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditMenuItemForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\EditMenuItemForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:49:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditTableForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditTableForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\EditTableForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:21:20.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:16:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderDetailsForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\OrderDetailsForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:28:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAYwK4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:27:46.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAGwNAAAAAAAAAAAEwH8NAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-13T12:17:48.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditOrderItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\EditOrderItemForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.Designer.cs",
+              "RelativeToolTip": "Forms\\EditOrderItemForm.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:36:52.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditOrderItemForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditOrderItemForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.cs",
+              "RelativeToolTip": "Forms\\EditOrderItemForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:36:31.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\TableForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\TableForm.Designer.cs",
+              "RelativeToolTip": "Forms\\TableForm.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:50:55.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditOrderItemForm.resx",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.resx",
+              "RelativeDocumentMoniker": "Forms\\EditOrderItemForm.resx",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditOrderItemForm.resx",
+              "RelativeToolTip": "Forms\\EditOrderItemForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-13T12:01:30.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.cs",
+              "RelativeToolTip": "Forms\\OrderForm.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:48:50.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.Designer.cs",
+              "RelativeToolTip": "Forms\\OrderForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:38:37.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\TableService.cs",
+              "RelativeDocumentMoniker": "Services\\TableService.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\TableService.cs",
+              "RelativeToolTip": "Services\\TableService.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:41:53.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\OrderForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:47:23.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditTableForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditTableForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.cs",
+              "RelativeToolTip": "Forms\\EditTableForm.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:29:38.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:25:48.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:13:14.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EditMenuItemForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditMenuItemForm.cs",
+              "RelativeDocumentMoniker": "Forms\\EditMenuItemForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditMenuItemForm.cs",
+              "RelativeToolTip": "Forms\\EditMenuItemForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:49:32.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderDetailsForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderDetailsForm.Designer.cs",
+              "RelativeToolTip": "Forms\\OrderDetailsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:22:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "Services\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:41:30.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItem.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\MenuItem.cs",
+              "RelativeToolTip": "Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:38:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\MenuService.cs",
+              "RelativeDocumentMoniker": "Services\\MenuService.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\MenuService.cs",
+              "RelativeToolTip": "Services\\MenuService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:45:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditTableForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\EditTableForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\EditTableForm.Designer.cs",
+              "RelativeToolTip": "Forms\\EditTableForm.Designer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:30:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.cs",
+              "RelativeToolTip": "Forms\\MenuForm.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:48:12.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MenuForm.cs [Projekt]",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.cs [Projekt]",
+              "RelativeToolTip": "Forms\\MenuForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:32:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:16:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:58:45.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:27:24.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\MenuForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MenuForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MenuForm.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwJsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:48:32.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "sample_data.sql",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Database\\sample_data.sql",
+              "RelativeDocumentMoniker": "Database\\sample_data.sql",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Database\\sample_data.sql",
+              "RelativeToolTip": "Database\\sample_data.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-03T13:53:32.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:42:10.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:40:34.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "create_tables.sql",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Database\\create_tables.sql",
+              "RelativeDocumentMoniker": "Database\\create_tables.sql",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Database\\create_tables.sql",
+              "RelativeToolTip": "Database\\create_tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-03T13:53:13.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "Models\\Table.cs",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Models\\Table.cs",
+              "RelativeToolTip": "Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:42:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderForm.resx",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.resx",
+              "RelativeDocumentMoniker": "Forms\\OrderForm.resx",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\Forms\\OrderForm.resx",
+              "RelativeToolTip": "Forms\\OrderForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-02T19:51:44.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RestaurantManagement.csproj",
+              "DocumentMoniker": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\RestaurantManagement.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagement.csproj",
+              "ToolTip": "C:\\Studia\\Semestr_4\\PO2\\RestaurantManagement\\RestaurantManagement.csproj",
+              "RelativeToolTip": "RestaurantManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T19:50:08.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
